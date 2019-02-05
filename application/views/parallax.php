@@ -14,7 +14,7 @@
             </div>
 
         <div class="row center">
-            <a href="#start" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 js-scrollTo">Do it</a>
+            <a href="#start" id="download-button" class="btn-large waves-effect waves-light teal lighten-1 js-scrollTo">Nogota</a>
         </div>
         <br><br>
     </div>
