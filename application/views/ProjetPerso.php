@@ -1,5 +1,5 @@
-<div id="PortFolio">
-    <?php foreach (Article::where('categ','BTSSIO')->get() as $article): ?>
+<div id="ProjetPerso">
+    <?php foreach (Article::where('categ','ProjetPerso')->get() as $article): ?>
         <div class="row projetsBackground">
             <div class="col m5 s12 projetsBorder">
                 <div class="row projetsSlash">
